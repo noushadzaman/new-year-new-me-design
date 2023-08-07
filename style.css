@@ -106,6 +106,7 @@ header div {
 
 .plans {
     text-align: center;
+    cursor: pointer;
 }
 
 .call-section-title {
@@ -178,6 +179,7 @@ footer {
     font-size: 20px;
     padding: 20px 25px;
     margin-top: 20px;
+    cursor: pointer;
 }
 .footer-title-second{
     color: white;
