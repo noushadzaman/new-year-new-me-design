@@ -35,6 +35,7 @@ header {
     border-radius: 5px;
     background: #FFF;
     border: none;
+    cursor: pointer;
 }
 
 header div {
@@ -136,6 +137,7 @@ header div {
     border: none;
     margin-left: 64px;
     margin-bottom: 60px;
+    cursor: pointer;
 }
 
 footer {
@@ -150,6 +152,7 @@ footer {
     display: flex;
     gap: 30px;
     padding-top: 32px;
+    cursor: pointer;
 }
 
 .footer-title {
